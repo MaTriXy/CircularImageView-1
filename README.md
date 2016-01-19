@@ -1,4 +1,4 @@
-<p align="center"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.mikhaellopez.circularimageviewsample" title="Download on Google Play Store"><img src="http://i67.tinypic.com/2ij1d2r.jpg"></a></p>
+<p align="center"><img src="http://i67.tinypic.com/2ij1d2r.jpg"></p>
 
 CircularImageView
 =================
@@ -10,9 +10,7 @@ CircularImageView
 
 This is an Android project allowing to realize a circular ImageView in the simplest way possible.
 
-<a target="_blank" href="https://play.google.com/store/apps/details?id=com.mikhaellopez.circularimageviewsample">
-  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
-</a>
+<img src="/preview/preview.gif" alt="sample" title="sample" width="300" height="435" align="right" vspace="52" />
 
 USAGE
 -----
