@@ -1,6 +1,11 @@
-/local.properties
-/.idea
-.DS_Store
-/build
+# GENERATED
+*build
 .gradle
-CircularImageView.iml
+.DS_Store
+
+# LOCAL
+local.properties
+
+# IDEA
+*.idea
+*.iml
